@@ -18,5 +18,6 @@ Splunk different components
 3) Universal Forwarder (Agent)
 4) Heavy Forwarder 
 5) License Manager 
-6) 
+6) Splunk Deployment server
+7) Cluster Master
 
