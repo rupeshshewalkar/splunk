@@ -1,1 +1,22 @@
+Splunk Tutorial 
+=======================
+Splunk usually used 
+- Log collect & management 
+- Log monitoring and alerts
+- SIEM
+
+Splunk Product
+========================
+1) Splunk light
+2) Splunk Enterprise 
+3) Splunk Cloud
+
+Splunk different components 
+============================
+1) Search Head
+2) Indexer 
+3) Universal Forwarder (Agent)
+4) Heavy Forwarder 
+5) License Manager 
+6) 
 
